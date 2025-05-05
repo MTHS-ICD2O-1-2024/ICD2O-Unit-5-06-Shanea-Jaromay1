@@ -16,7 +16,7 @@ function calculateNumber () {
   let counter = 0
   let answer = 0 
   const numberOne = parseFloat(document.getElementById('number-one').value)
-  const numberTwo = parseFloat(document,getElementById('number-two').value)
+  const numberTwo = parseFloat(document.getElementById('number-two').value)
 
   //process
   while (counter < numberTwo ) {
