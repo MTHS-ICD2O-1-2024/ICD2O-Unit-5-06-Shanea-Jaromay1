@@ -19,9 +19,9 @@ function calculateNumber () {
   let answer = 0 
 
   //process
-  while (counter < secondNumber ) {
+  while (counter < numberTwo ) {
     counter = counter + 1
-    answer = answer + firstNumber 
+    answer = answer + numberOne 
   }
 
   // output
