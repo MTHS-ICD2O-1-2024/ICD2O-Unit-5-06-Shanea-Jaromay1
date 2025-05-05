@@ -25,5 +25,5 @@ function calculateNumber () {
   }
 
   // output
-  document.getElementById('answer').innerHTML = 'Your answer is:' + answer
+  document.getElementById('answer').innerHTML = 'Your answer is:' + answer + '.'
 }
