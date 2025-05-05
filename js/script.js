@@ -8,15 +8,15 @@
 "use-strict"
 
 /**
-* This function check the type of triangle
+* This function calculate, doing multiplication
 */
 // eslint-disable-next-line no-unused-vars
 function calculateNumber () {
   //input 
-  const numberOne = parseFloat(document.getElementById('number-one').value)
-  const numberTwo = parseFloat(document,getElementById('number-two').value)
   let counter = 0
   let answer = 0 
+  const numberOne = parseFloat(document.getElementById('number-one').value)
+  const numberTwo = parseFloat(document,getElementById('number-two').value)
 
   //process
   while (counter < numberTwo ) {
